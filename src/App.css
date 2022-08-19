@@ -1,0 +1,29 @@
+.pane.pane-top {
+  background-color: #202429;
+  padding-left: 5px !important;
+  padding-right: 5px !important;
+  justify-content: center !important;
+}
+
+.editor-lang {
+  padding: 10px !important;
+}
+
+.editor-text {
+  text-align: center;
+  background-color: rgb(49 48 51 / 87%);
+  color: rgba(250, 230, 194, 0.972);
+  font-size: 1.2em;
+  line-height: 2;
+  justify-content: center;
+}
+
+.output-pane {
+  left: 0;
+  border: 0px solid;
+  position: absolute;
+  height: 50%;
+  width: 100%;
+  background-color: white;
+  padding-bottom: 20px;
+}
